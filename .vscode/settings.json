@@ -1,0 +1,19 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "files.associations": {
+    "touchperipherals.h": "c",
+    "globals.h": "c",
+    "bluetooth.h": "c",
+    "stdio.h": "c",
+    "bluetooth_service.h": "c",
+    "event_groups.h": "c"
+  }
+}
